@@ -1,0 +1,17 @@
+title: Natural Language Processing and Text Mining 2016
+description: Universidad Nacional de Colombia, Bogotá
+sitename: NLP and TM
+baseurl: '/NLPTM-2016/'
+sass:
+  sass_dir: /assets/_sass
+  style: :compressed
+collections:
+  - features
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - LICENSE.txt
+  - CNAME
+  - Gemfile.bak
+  - .bundle
