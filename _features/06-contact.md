@@ -6,7 +6,7 @@ subheading:
 image: 
 ---
  
-**Coordinacion academica**
+**Coordinación académica**
 
 	Ingeniero Fabio A. González
 

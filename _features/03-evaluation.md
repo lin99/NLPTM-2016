@@ -6,6 +6,6 @@ subheading:
 image: 
 ---
 
-4 credits en 64 hours
+4 credits in 64 hours
 
 [Grades]()
