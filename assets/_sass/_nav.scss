@@ -1,6 +1,14 @@
+@font-face {
+    font-family: 'Museo Sans 500 Regular';
+    src: url(/fonts/MuseoSans-500.eot);
+    src: local('MuseoSans-500'), local('Museo Sans 500'),
+         url(/fonts/MuseoSans-500.otf) format('opentype');
+    }
+
 nav {
 	@extend .navbar, .navbar-inverse, .navbar-fixed-top;
 	button { @extend .navbar-toggle; }
 	#menu { @extend .collapse, .navbar-collapse; }
   ul { @extend .nav, .navbar-nav; }
+  font-family: 'Museo Sans 500 Regular';
 }
