@@ -1,17 +1,24 @@
+@font-face {
+    font-family: 'Museo Sans 500 Regular';
+    src: url(/fonts/MuseoSans-500.eot);
+    src: local('MuseoSans-500'), local('Museo Sans 500'),
+         url(/fonts/MuseoSans-500.otf) format('opentype');
+    }
+
 main {
   hr { margin: 80px 0; }
   section { overflow: hidden; }
 
-  img {
-    @extend .img-circle;
-    @extend .img-responsive;
+    font-family: 'Museo Sans 500 Regular';
 
-    &.pull-left {  margin-right: 40px;  }
-    &.pull-right {  margin-left: 40px;  }
+
+  strong {
+    color: #bb0000;
   }
 
-  h2 {
-    font-size: 50px;
+  h2, h1 {
+    color: #bb0000;
+    font-size: 45px;
     span { @extend .text-muted; }
   }
 

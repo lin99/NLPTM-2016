@@ -2,21 +2,18 @@ header {
   display: block;
   width: 100%;
   text-align: center;
-  background: url('/is-2016-1/perspective.png') no-repeat center center scroll;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  background-size: cover;
-  -o-background-size: cover;
 
   .headline { padding: 120px 0; }
 
   h1 {
+    color: #bb0000;
     font-size: 130px;
     background: #fff;
     background: rgba(255,255,255,0.0);
   }
 
   h2 {
+    color: #bb0000;
     font-size: 77px;
     background: #fff;
     background: rgba(255,255,255,0.0);
