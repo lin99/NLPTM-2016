@@ -29,11 +29,13 @@ image:
 
 <tr>
 <td>Jun 14</td>
-<td> </td>
+<td> NLP goals. Introduction to lexical similarity <a href= "http://lin99.github.io/NLPTM-2016/1.Docs/01_Introduction.pdf"> Slides </a></td>
+<td>
+<a href= "http://lin99.github.io/NLPTM-2016/1.Docs/lexsim_ci2016.py">Code</a>
+</td>
+
 <td>
 
-</td>
-<td>
 </td>
 </tr>
 
