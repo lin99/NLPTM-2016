@@ -32,6 +32,8 @@ image:
 <td> NLP goals. Introduction to lexical similarity <a href= "http://lin99.github.io/NLPTM-2016/1.Docs/01_Introduction.pdf"> Slides </a></td>
 <td>
 <a href= "http://lin99.github.io/NLPTM-2016/1.Docs/lexsim_ci2016.py">Code</a>
+<br>
+<a href= "https://github.com/DiplomadoACL/problemasenclase/tree/master/lexical_similarity/en"> DataSet</a>
 </td>
 
 <td>
