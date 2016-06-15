@@ -31,7 +31,7 @@ image:
 <td>Jun 14</td>
 <td> NLP goals. Introduction to lexical similarity <a href= "http://lin99.github.io/NLPTM-2016/1.Docs/01_Introduction.pdf"> Slides </a></td>
 <td>
-<a href= "http://lin99.github.io/NLPTM-2016/1.Docs/lexsim_ci2016.py">Code</a>
+<a href= "http://lin99.github.io/NLPTM-2016/1.Docs/lexsim_ci2016.py">LexSim V1</a>
 <br>
 <a href= "https://github.com/DiplomadoACL/problemasenclase/tree/master/lexical_similarity/en"> DataSet</a>
 </td>
@@ -43,9 +43,11 @@ image:
 
 <tr>
 <td>Jun 15</td>
-<td></td>
+<td>Lexical similarity functions implementation</td>
 <td>
-
+<a href="http://lin99.github.io/NLPTM-2016/1.Docs/lexsim_ci201_Jun15_1.py"> LexSim V2 </a>
+<br>
+<a href= "https://docs.google.com/spreadsheets/d/1FtfMFVygOF0NFmd-an208TuMprdhFkfyc-5mtgfm-i8/edit?usp=sharing"> Results lexical similarity </a>
 </td>
 <td>
 
