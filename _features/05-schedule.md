@@ -56,10 +56,17 @@ image:
 
 <tr>
 <td>Jun 16</td>
-<td> </td>
+<td>Workshop text similarity </td>
 <td>
-
+<a href="http://lin99.github.io/NLPTM-2016/1.Docs/lexsim_ci2016_Jun16.py"> LexSim V3 </a>
+<br>
+<a href="http://lin99.github.io/NLPTM-2016/1.Docs/data_texsim.zip"> DataSet </a>
+<br>
+Lectura <a href="http://nlp.stanford.edu/manning/papers/Manning-Last-Words-COLI_a_00239.pdf"> Computational Linguistics and
+Deep Learning
+</a>
 </td>
+
 <td>
 </td>
 </tr>
