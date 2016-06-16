@@ -62,11 +62,11 @@ Words<a href= "https://github.com/DiplomadoACL/problemasenclase/tree/master/lexi
 <br>
 Text similarity <a href="http://lin99.github.io/NLPTM-2016/1.Docs/data_texsim.zip"> DataSet </a>
 <br>
-Lectura: <a href="http://nlp.stanford.edu/manning/papers/Manning-Last-Words-COLI_a_00239.pdf"> Computational Linguistics and
+Lectura: <a target="_blank" href="http://nlp.stanford.edu/manning/papers/Manning-Last-Words-COLI_a_00239.pdf"> Computational Linguistics and
 Deep Learning
 </a>
 <br>
-<a href="https://docs.google.com/uc?id=0B7XkCwpI5KDYNlNUTTlSS21pQmM&export=download">
+<a target="_blank" href="https://docs.google.com/uc?id=0B7XkCwpI5KDYNlNUTTlSS21pQmM&export=download">
   word2vec Google News Pre-traning Model
 </a>
 </td>
