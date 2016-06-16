@@ -33,7 +33,7 @@ image:
 <td>
 <a href= "http://lin99.github.io/NLPTM-2016/1.Docs/lexsim_ci2016.py">LexSim V1</a>
 <br>
-<a href= "https://github.com/DiplomadoACL/problemasenclase/tree/master/lexical_similarity/en"> DataSet</a>
+Words<a href= "https://github.com/DiplomadoACL/problemasenclase/tree/master/lexical_similarity/en"> DataSet</a>
 </td>
 
 <td>
@@ -60,9 +60,9 @@ image:
 <td>
 <a href="http://lin99.github.io/NLPTM-2016/1.Docs/lexsim_ci2016 _Jun16.py"> LexSim V3 </a>
 <br>
-<a href="http://lin99.github.io/NLPTM-2016/1.Docs/data_texsim.zip"> DataSet </a>
+Text similarity <a href="http://lin99.github.io/NLPTM-2016/1.Docs/data_texsim.zip"> DataSet </a>
 <br>
-Lectura <a href="http://nlp.stanford.edu/manning/papers/Manning-Last-Words-COLI_a_00239.pdf"> Computational Linguistics and
+Lectura: <a href="http://nlp.stanford.edu/manning/papers/Manning-Last-Words-COLI_a_00239.pdf"> Computational Linguistics and
 Deep Learning
 </a>
 </td>
