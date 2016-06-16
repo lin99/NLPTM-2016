@@ -58,7 +58,7 @@ image:
 <td>Jun 16</td>
 <td>Workshop text similarity </td>
 <td>
-<a href="http://lin99.github.io/NLPTM-2016/1.Docs/lexsim_ci2016_Jun16.py"> LexSim V3 </a>
+<a href="http://lin99.github.io/NLPTM-2016/1.Docs/lexsim_ci2016 _Jun16.py"> LexSim V3 </a>
 <br>
 <a href="http://lin99.github.io/NLPTM-2016/1.Docs/data_texsim.zip"> DataSet </a>
 <br>
