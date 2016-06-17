@@ -82,6 +82,9 @@ Deep Learning
 <td>
 </td>
 <td>
+Lectura: <a target="_blank" href="http://nlp.stanford.edu/manning/papers/Manning-Last-Words-COLI_a_00239.pdf"> Computational Linguistics and
+Deep Learning
+</a>
 </td>
 </tr>
 
