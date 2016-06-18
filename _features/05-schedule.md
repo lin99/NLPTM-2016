@@ -72,6 +72,9 @@ Deep Learning
 </td>
 
 <td>
+ <a targe="blank" href="https://docs.google.com/document/d/1skQCQj7Qk21kZ1MMQ_PqbnZeqkmUgc48P0m2aitht-4/edit" >Assignment 1</a>
+<br>
+<a href="http://lin99.github.io/NLPTM-2016/1.Docs/tarea.zip">Files</a>
 </td>
 </tr>
 
