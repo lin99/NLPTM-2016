@@ -62,7 +62,7 @@ Words<a href= "https://github.com/DiplomadoACL/problemasenclase/tree/master/lexi
 <br>
 Text similarity <a href="http://lin99.github.io/NLPTM-2016/1.Docs/data_texsim.zip"> DataSet </a>
 <br>
-Lectura: <a target="_blank" href="http://nlp.stanford.edu/manning/papers/Manning-Last-Words-COLI_a_00239.pdf"> Computational Linguistics and
+Must read: <a target="_blank" href="http://nlp.stanford.edu/manning/papers/Manning-Last-Words-COLI_a_00239.pdf"> Computational Linguistics and
 Deep Learning
 </a>
 <br>
@@ -72,7 +72,7 @@ Deep Learning
 </td>
 
 <td>
- <a targe="blank" href="https://docs.google.com/document/d/1skQCQj7Qk21kZ1MMQ_PqbnZeqkmUgc48P0m2aitht-4/edit" >Assignment 1</a>
+ <a target="blank" href="https://docs.google.com/document/d/1skQCQj7Qk21kZ1MMQ_PqbnZeqkmUgc48P0m2aitht-4/edit" >Assignment 1</a>
 <br>
 <a href="http://lin99.github.io/NLPTM-2016/1.Docs/tarea.zip">Files</a>
 </td>
@@ -85,7 +85,7 @@ Deep Learning
 <td>
 </td>
 <td>
-Lectura: <a target="_blank" href="http://nlp.stanford.edu/manning/papers/Manning-Last-Words-COLI_a_00239.pdf"> Computational Linguistics and
+Must read: <a target="_blank" href="http://nlp.stanford.edu/manning/papers/Manning-Last-Words-COLI_a_00239.pdf"> Computational Linguistics and
 Deep Learning
 </a>
 </td>
