@@ -82,7 +82,7 @@ Deep Learning
 <td>Jun 17</td>
 <td>2. Parsing and translation
 <br>
-Introduction <a href="http://lin99.github.io/NLPTM-2016/intro.pptx">Slides</a>
+Introduction <a href="http://lin99.github.io/NLPTM-2016/2.Docs/intro.pptx">Slides</a>
 <br>
 Pre-processing <a href="http://lin99.github.io/NLPTM-2016/">Slides</a>
 </td>
@@ -100,7 +100,7 @@ Deep Learning
 <td>
  Language Models <a href="http://lin99.github.io/NLPTM-2016/2.Docs/LM.pptx">Slides</a>
  <br>
- Hidden Markov Models <a href="http://lin99.github.io/NLPTM-2016/2.Docs/hmm_examples.pptx">Example</a>
+ Hidden Markov Models <a href="http://lin99.github.io/NLPTM-2016/2.Docs/hmm_example.pptx">Example</a>
 </td>
 <td>
 </td>
