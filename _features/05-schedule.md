@@ -103,6 +103,7 @@ Deep Learning
  Hidden Markov Models <a href="http://lin99.github.io/NLPTM-2016/2.Docs/hmm_example.pptx">Example</a>
 </td>
 <td>
+New notebook <a href="http://lin99.github.io/NLPTM-2016/2.Docs/Notebook.docx">tutorial</a>
 </td>
 <td>
 </td>
