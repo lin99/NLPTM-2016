@@ -84,7 +84,7 @@ Deep Learning
 <br>
 Introduction <a href="http://lin99.github.io/NLPTM-2016/2.Docs/intro.pptx">Slides</a>
 <br>
-Pre-processing <a href="http://lin99.github.io/NLPTM-2016/">Slides</a>
+Pre-processing <a href="http://lin99.github.io/NLPTM-2016/2.Docs/2_TextProc.pptx">Slides</a>
 </td>
 <td>
 </td>
