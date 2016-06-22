@@ -112,9 +112,12 @@ New notebook <a href="http://lin99.github.io/NLPTM-2016/2.Docs/Notebook.docx">tu
 <tr>
 <td>Jun 21</td>
 <td>
-
+Word classes and part of speech tagging <a href="http://lin99.github.io/NLPTM-2016/2.Docs/pos-tagging.pptx">Slides</a>
 </td>
 <td>
+POS Tagging Exercise <a href="http://lin99.github.io/NLPTM-2016/2.Docs/POSTaggingExercise.ipynb"> Notebook</a>
+<br>
+Language Models with KenLM Mac OS X <a href="http://lin99.github.io/NLPTM-2016/2.Docs/LanguageModelswithKenLM.ipynb"> Notebook </a>
 </td>
 <td>
 </td>
