@@ -29,7 +29,8 @@ image:
 
 <tr>
 <td>Jun 14</td>
-<td> NLP goals. Introduction to lexical similarity <a href= "http://lin99.github.io/NLPTM-2016/1.Docs/01_Introduction.pdf"> Slides </a></td>
+<td> 1.1 NLP goals. <br>
+1.2 Introduction to lexical similarity <a href= "http://lin99.github.io/NLPTM-2016/1.Docs/01_Introduction.pdf"> Slides </a></td>
 <td>
 <a href= "http://lin99.github.io/NLPTM-2016/1.Docs/lexsim_ci2016.py">LexSim V1</a>
 <br>
@@ -43,7 +44,7 @@ Words<a href= "https://github.com/DiplomadoACL/problemasenclase/tree/master/lexi
 
 <tr>
 <td>Jun 15</td>
-<td>Lexical similarity functions implementation</td>
+<td>1.3 Lexical similarity functions implementation</td>
 <td>
 <a href="http://lin99.github.io/NLPTM-2016/1.Docs/lexsim_ci201_Jun15_1.py"> LexSim V2 </a>
 <br>
@@ -56,7 +57,7 @@ Words<a href= "https://github.com/DiplomadoACL/problemasenclase/tree/master/lexi
 
 <tr>
 <td>Jun 16</td>
-<td>Workshop text similarity </td>
+<td>1.4 Workshop text similarity </td>
 <td>
 <a href="http://lin99.github.io/NLPTM-2016/1.Docs/lexsim_ci2016 _Jun16.py"> LexSim V3 </a>
 <br>
@@ -82,9 +83,9 @@ Deep Learning
 <td>Jun 17</td>
 <td>2. Parsing and translation
 <br>
-Introduction <a href="http://lin99.github.io/NLPTM-2016/2.Docs/intro.pptx">Slides</a>
+2.1 Introduction <a href="http://lin99.github.io/NLPTM-2016/2.Docs/intro.pptx">Slides</a>
 <br>
-Pre-processing <a href="http://lin99.github.io/NLPTM-2016/2.Docs/2_TextProc.pptx">Slides</a>
+2.2 Pre-processing <a href="http://lin99.github.io/NLPTM-2016/2.Docs/2_TextProc.pptx">Slides</a>
 </td>
 <td>
 </td>
@@ -98,9 +99,9 @@ Deep Learning
 <tr>
 <td>Jun 20</td>
 <td>
- Language Models <a href="http://lin99.github.io/NLPTM-2016/2.Docs/LM.pptx">Slides</a>
+ 2.3 Language Models <a href="http://lin99.github.io/NLPTM-2016/2.Docs/LM.pptx">Slides</a>
  <br>
- Hidden Markov Models <a href="http://lin99.github.io/NLPTM-2016/2.Docs/hmm_example.pptx">Example</a>
+ 2.4 Hidden Markov Models <a href="http://lin99.github.io/NLPTM-2016/2.Docs/hmm_example.pptx">Example</a>
 </td>
 <td>
 New notebook <a href="http://lin99.github.io/NLPTM-2016/2.Docs/Notebook.docx">tutorial</a>
@@ -112,7 +113,7 @@ New notebook <a href="http://lin99.github.io/NLPTM-2016/2.Docs/Notebook.docx">tu
 <tr>
 <td>Jun 21</td>
 <td>
-Word classes and part of speech tagging <a href="http://lin99.github.io/NLPTM-2016/2.Docs/pos-tagging.pptx">Slides</a>
+2.5 Word classes and part of speech tagging <a href="http://lin99.github.io/NLPTM-2016/2.Docs/pos-tagging.pptx">Slides</a>
 </td>
 <td>
 POS Tagging Exercise 
