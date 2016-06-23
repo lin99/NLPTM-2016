@@ -147,6 +147,13 @@ Language Models with KenLM Mac OS X <a href="http://lin99.github.io/NLPTM-2016/2
 <td>Jun 23</td>
 <td>
 3. Text mining
+<br>
+3.1 Introduction to text classification
+<ul>
+  <li>BoW representation</li>
+  <li>Classification methods</li>
+  <li>Evaluation</li>
+</ul>
 </td>
 <td>
 
