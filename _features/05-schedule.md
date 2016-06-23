@@ -116,7 +116,7 @@ New notebook <a href="http://lin99.github.io/NLPTM-2016/2.Docs/Notebook.docx">tu
 2.5 Word classes and part of speech tagging <a href="http://lin99.github.io/NLPTM-2016/2.Docs/pos-tagging.pptx">Slides</a>
 </td>
 <td>
-POS Tagging Exercise 
+POS Tagging Exercise V1
 <a href="https://github.com/lin99/NLPTM-2016/blob/gh-pages/2.Docs/POSTaggingExercise.ipynb"> Notebook</a>
 <a href="http://lin99.github.io/NLPTM-2016/2.Docs/POSTaggingExercise.ipynb"> (download)</a>
 <br>
@@ -138,8 +138,10 @@ Language Models with KenLM Mac OS X <a href="http://lin99.github.io/NLPTM-2016/2
 
 </td>
 <td>
-
-
+Assignment 2
+<br>
+<a href="https://github.com/lin99/NLPTM-2016/blob/gh-pages/2.Docs/POSTaggingExerciseFinal.ipynb"> Notebook</a>
+<a href="http://lin99.github.io/NLPTM-2016/2.Docs/POSTaggingExerciseFinal.ipynb"> (download)</a>
 </td>
 </tr>
 
