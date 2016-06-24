@@ -132,13 +132,21 @@ Language Models with KenLM Mac OS X <a href="http://lin99.github.io/NLPTM-2016/2
 <tr>
 <td>Jun 22</td>
 <td>
+2.6 Parsing <a href="http://lin99.github.io/NLPTM-2016/2.Docs/parsing.pptx">Slides</a>
+<br>
+2.7 Statistical parsing <a href="http://lin99.github.io/NLPTM-2016/2.Docs/statistical_parsing.pptx">Slides</a>
+<br>
 
 </td>
 <td>
-
+ <a href="http://lin99.github.io/NLPTM-2016/2.Docs/cky_example.ppt"> Example CKY </a>
+ <br>
+ <a href="http://lin99.github.io/NLPTM-2016/2.Docs/prob_cky_example.ppt"> Example Prob CKY </a>
 </td>
 <td>
-Assignment 2
+<a href="http://lin99.github.io/NLPTM-2016/2.Docs/assignment-2.pdf">Assignment 2</a>
+
+
 <br>
 <a href="https://github.com/lin99/NLPTM-2016/blob/gh-pages/2.Docs/POSTaggingExerciseFinal.ipynb"> Notebook</a>
 <a href="http://lin99.github.io/NLPTM-2016/2.Docs/POSTaggingExerciseFinal.ipynb"> (download)</a>
