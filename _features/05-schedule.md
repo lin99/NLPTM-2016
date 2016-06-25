@@ -113,7 +113,8 @@ New notebook <a href="http://lin99.github.io/NLPTM-2016/2.Docs/Notebook.docx">tu
 <tr>
 <td>Jun 21</td>
 <td>
-2.5 Word classes and part of speech tagging <a href="http://lin99.github.io/NLPTM-2016/2.Docs/pos-tagging.pptx">Slides</a>
+2.5 Word classes and part of speech tagging <a href="https://github.com/lin99/NLPTM-2016/blob/gh-pages/2.Docs/pos_tagging.pptx">Slides</a>
+
 </td>
 <td>
 POS Tagging Exercise V1
