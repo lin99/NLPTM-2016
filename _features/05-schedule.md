@@ -86,6 +86,13 @@ Deep Learning
 2.1 Introduction <a href="http://lin99.github.io/NLPTM-2016/2.Docs/intro.pptx">Slides</a>
 <br>
 2.2 Pre-processing <a href="http://lin99.github.io/NLPTM-2016/2.Docs/2_TextProc.pptx">Slides</a>
+<ul>
+  <li>Regular expressions</li>
+  <li>Tokenization</li>
+  <li>Word Normalization and Stemming</li>
+  <li>Sentence Segmentation and Decision Trees</li>
+
+</ul>
 </td>
 <td>
 </td>
@@ -100,6 +107,12 @@ Deep Learning
 <td>Jun 20</td>
 <td>
  2.3 Language Models <a href="http://lin99.github.io/NLPTM-2016/2.Docs/LM.pptx">Slides</a>
+ <ul>
+  <li>N-grams</li>
+  <li>Estimating N-gram Probabilities</li>
+  <li>Evaluation and Perplexity</li>
+  <li>Smoothing</li>
+</ul>
  <br>
  2.4 Hidden Markov Models <a href="http://lin99.github.io/NLPTM-2016/2.Docs/hmm_example.pptx">Example</a>
 </td>
