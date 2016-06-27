@@ -179,7 +179,7 @@ Language Models with KenLM Mac OS X <a href="http://lin99.github.io/NLPTM-2016/2
 <td>
 3.2 Beyond the Bag-of-Words representation <a href="http://lin99.github.io/NLPTM-2016/3.Docs/BeyondWords-UNAL2016.pdf"> Slides </a>
 
-  <ul>
+<ul>
   <li>word n-grams</li>
   <li>Linguistic features</li>
   <li>word senses as feasters</li>
@@ -198,7 +198,14 @@ Language Models with KenLM Mac OS X <a href="http://lin99.github.io/NLPTM-2016/2
 <tr>
 <td>Jun 27</td>
 <td>
+3.3 Non Conventional text classification techniques <a href="http://lin99.github.io/NLPTM-2016/3.Docs/NonConvetionalMethods-UNAL2016.pdf"> Slides </a>
 
+<ul>
+  <li>Semi-supervised text classification</li>
+  <li>One Class text classification</li>
+  <li>Set-based text classification</li>
+  <li>Cross-language text classification</li>
+</ul>
 </td>
 <td>
 
