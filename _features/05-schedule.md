@@ -159,7 +159,7 @@ Language Models with KenLM Mac OS X <a href="http://lin99.github.io/NLPTM-2016/2
 <td>
 3. Text mining
 <br>
-3.1 Introduction to text classification
+3.1 Introduction to text classification <a href="https://github.com/lin99/NLPTM-2016/blob/gh-pages/3.Docs/IntroductionTextClassification-UNAL2016.pdf"> Slides </a>
 <ul>
   <li>BoW representation</li>
   <li>Classification methods</li>
@@ -177,7 +177,14 @@ Language Models with KenLM Mac OS X <a href="http://lin99.github.io/NLPTM-2016/2
 <tr>
 <td>Jun 24</td>
 <td>
+3.2 Beyond the Bag-of-Words representation <a href="https://github.com/lin99/NLPTM-2016/blob/gh-pages/3.Docs/BeyondWords-UNAL2016.pdf"> Slides </a>
 
+  <ul>
+  <li>word n-grams</li>
+  <li>Linguistic features</li>
+  <li>word senses as feasters</li>
+  <li>concept-based representations</li>
+</ul>
 </td>
 <td>
 
