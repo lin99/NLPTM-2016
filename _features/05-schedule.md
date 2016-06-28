@@ -231,7 +231,7 @@ Language Models with KenLM Mac OS X <a href="http://lin99.github.io/NLPTM-2016/2
 <tr>
 <td>Jun 28</td>
 <td>
-Authorship Analysis <a target = "_blank" href="http://lin99.github.io/NLPTM-2016/3.Docs/AuthorshipAnalysis-UNAL2016.pdf"> Slides </a>
+3.4 Authorship Analysis <a target = "_blank" href="http://lin99.github.io/NLPTM-2016/3.Docs/AuthorshipAnalysis-UNAL2016.pdf"> Slides </a>
 <ul>
   <li>Methods for Authorship Attribution</li>
   <li>Methods for Author Profiling</li>
