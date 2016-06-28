@@ -137,7 +137,7 @@ POS Tagging Exercise V1
 
 
 Language Models with KenLM Mac OS X <a href="http://lin99.github.io/NLPTM-2016/2.Docs/LanguageModelswithKenLM.ipynb"> Notebook </a>
-<a href="https://github.com/lin99/NLPTM-2016/blob/gh-pages/2.Docs/LanguageModelswithKenLM.ipynb"> (download)</a>
+<a target = "_blank" href="https://github.com/lin99/NLPTM-2016/blob/gh-pages/2.Docs/LanguageModelswithKenLM.ipynb"> (download)</a>
 </td>
 <td>
 </td>
@@ -146,24 +146,24 @@ Language Models with KenLM Mac OS X <a href="http://lin99.github.io/NLPTM-2016/2
 <tr>
 <td>Jun 22</td>
 <td>
-2.6 Parsing <a href="http://lin99.github.io/NLPTM-2016/2.Docs/parsing.pptx">Slides</a>
+2.6 Parsing <a target = "_blank" href="http://lin99.github.io/NLPTM-2016/2.Docs/parsing.pptx">Slides</a>
 <br>
-2.7 Statistical parsing <a href="http://lin99.github.io/NLPTM-2016/2.Docs/statistical_parsing.pptx">Slides</a>
+2.7 Statistical parsing <a target = "_blank" href="http://lin99.github.io/NLPTM-2016/2.Docs/statistical_parsing.pptx">Slides</a>
 <br>
 
 </td>
 <td>
- <a href="http://lin99.github.io/NLPTM-2016/2.Docs/cky_example.ppt"> Example CKY </a>
+ <a target = "_blank" href="http://lin99.github.io/NLPTM-2016/2.Docs/cky_example.ppt"> Example CKY </a>
  <br>
- <a href="http://lin99.github.io/NLPTM-2016/2.Docs/prob_cky_example.ppt"> Example Prob CKY </a>
+ <a target = "_blank" href="http://lin99.github.io/NLPTM-2016/2.Docs/prob_cky_example.ppt"> Example Prob CKY </a>
 </td>
 <td>
-<a href="http://lin99.github.io/NLPTM-2016/2.Docs/assignment-2.pdf">Assignment 2</a>
+<a target = "_blank" href="http://lin99.github.io/NLPTM-2016/2.Docs/assignment-2.pdf">Assignment 2</a>
 
 
 <br>
-<a href="https://github.com/lin99/NLPTM-2016/blob/gh-pages/2.Docs/POSTaggingExerciseFinal.ipynb"> Notebook</a>
-<a href="http://lin99.github.io/NLPTM-2016/2.Docs/POSTaggingExerciseFinal.ipynb"> (download)</a>
+<a target = "_blank" href="https://github.com/lin99/NLPTM-2016/blob/gh-pages/2.Docs/POSTaggingExerciseFinal.ipynb"> Notebook</a>
+<a target = "_blank" href="http://lin99.github.io/NLPTM-2016/2.Docs/POSTaggingExerciseFinal.ipynb"> (download)</a>
 </td>
 </tr>
 
@@ -172,7 +172,7 @@ Language Models with KenLM Mac OS X <a href="http://lin99.github.io/NLPTM-2016/2
 <td>
 3. Text mining
 <br>
-3.1 Introduction to text classification <a href="http://lin99.github.io/NLPTM-2016/3.Docs/IntroductionTextClassification-UNAL2016.pdf"> Slides </a>
+3.1 Introduction to text classification <a target = "_blank" href="http://lin99.github.io/NLPTM-2016/3.Docs/IntroductionTextClassification-UNAL2016.pdf"> Slides </a>
 <ul>
   <li>BoW representation</li>
   <li>Classification methods</li>
@@ -190,7 +190,7 @@ Language Models with KenLM Mac OS X <a href="http://lin99.github.io/NLPTM-2016/2
 <tr>
 <td>Jun 24</td>
 <td>
-3.2 Beyond the Bag-of-Words representation <a href="http://lin99.github.io/NLPTM-2016/3.Docs/BeyondWords-UNAL2016.pdf"> Slides </a>
+3.2 Beyond the Bag-of-Words representation <a target = "_blank" href="http://lin99.github.io/NLPTM-2016/3.Docs/BeyondWords-UNAL2016.pdf"> Slides </a>
 
 <ul>
   <li>word n-grams</li>
@@ -211,7 +211,7 @@ Language Models with KenLM Mac OS X <a href="http://lin99.github.io/NLPTM-2016/2
 <tr>
 <td>Jun 27</td>
 <td>
-3.3 Non Conventional text classification techniques <a href="http://lin99.github.io/NLPTM-2016/3.Docs/NonConvetionalMethods-UNAL2016.pdf"> Slides </a>
+3.3 Non Conventional text classification techniques <a target = "_blank" href="http://lin99.github.io/NLPTM-2016/3.Docs/NonConvetionalMethods-UNAL2016.pdf"> Slides </a>
 
 <ul>
   <li>Semi-supervised text classification</li>
@@ -231,13 +231,19 @@ Language Models with KenLM Mac OS X <a href="http://lin99.github.io/NLPTM-2016/2
 <tr>
 <td>Jun 28</td>
 <td>
-
+Authorship Analysis <a target = "_blank" href="http://lin99.github.io/NLPTM-2016/3.Docs/AuthorshipAnalysis-UNAL2016.pdf"> Slides </a>
+<ul>
+  <li>Methods for Authorship Attribution</li>
+  <li>Methods for Author Profiling</li>
+</ul>
 </td>
 <td>
 
 </td>
 <td>
-
+Assignment 3
+<br>
+<a target = "_blank" href="http://lin99.github.io/NLPTM-2016/3.Docs/poemas.zip"> Poems</a>
 </td>
 </tr>
 
