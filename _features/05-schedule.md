@@ -32,9 +32,9 @@ image:
 <td> 1.1 NLP goals. <br>
 1.2 Introduction to lexical similarity <a href= "http://lin99.github.io/NLPTM-2016/1.Docs/01_Introduction.pdf"> Slides </a></td>
 <td>
-<a href= "http://lin99.github.io/NLPTM-2016/1.Docs/lexsim_ci2016.py">LexSim V1</a>
+<a target="_blank" href= "http://lin99.github.io/NLPTM-2016/1.Docs/lexsim_ci2016.py">LexSim V1</a>
 <br>
-Words<a href= "https://github.com/DiplomadoACL/problemasenclase/tree/master/lexical_similarity/en"> DataSet</a>
+Words<a target="_blank" href= "https://github.com/DiplomadoACL/problemasenclase/tree/master/lexical_similarity/en"> DataSet</a>
 </td>
 
 <td>
@@ -46,9 +46,9 @@ Words<a href= "https://github.com/DiplomadoACL/problemasenclase/tree/master/lexi
 <td>Jun 15</td>
 <td>1.3 Lexical similarity functions implementation</td>
 <td>
-<a href="http://lin99.github.io/NLPTM-2016/1.Docs/lexsim_ci201_Jun15_1.py"> LexSim V2 </a>
+<a target="_blank" href="http://lin99.github.io/NLPTM-2016/1.Docs/lexsim_ci201_Jun15_1.py"> LexSim V2 </a>
 <br>
-<a href= "https://docs.google.com/spreadsheets/d/1FtfMFVygOF0NFmd-an208TuMprdhFkfyc-5mtgfm-i8/edit?usp=sharing"> Results lexical similarity </a>
+<a target="_blank" href= "https://docs.google.com/spreadsheets/d/1FtfMFVygOF0NFmd-an208TuMprdhFkfyc-5mtgfm-i8/edit?usp=sharing"> Results lexical similarity </a>
 </td>
 <td>
 
@@ -59,9 +59,9 @@ Words<a href= "https://github.com/DiplomadoACL/problemasenclase/tree/master/lexi
 <td>Jun 16</td>
 <td>1.4 Workshop text similarity </td>
 <td>
-<a href="http://lin99.github.io/NLPTM-2016/1.Docs/lexsim_ci2016 _Jun16.py"> LexSim V3 </a>
+<a target="_blank" href="http://lin99.github.io/NLPTM-2016/1.Docs/lexsim_ci2016 _Jun16.py"> LexSim V3 </a>
 <br>
-Text similarity <a href="http://lin99.github.io/NLPTM-2016/1.Docs/data_texsim.zip"> DataSet </a>
+Text similarity <a target="_blank" href="http://lin99.github.io/NLPTM-2016/1.Docs/data_texsim.zip"> DataSet </a>
 <br>
 Must read: <a target="_blank" href="http://nlp.stanford.edu/manning/papers/Manning-Last-Words-COLI_a_00239.pdf"> Computational Linguistics and
 Deep Learning
@@ -106,7 +106,7 @@ Deep Learning
 <tr>
 <td>Jun 20</td>
 <td>
- 2.3 Language Models <a href="http://lin99.github.io/NLPTM-2016/2.Docs/LM.pptx">Slides</a>
+ 2.3 Language Models <a target="_blank" href="http://lin99.github.io/NLPTM-2016/2.Docs/LM.pptx">Slides</a>
  <ul>
   <li>N-grams</li>
   <li>Estimating N-gram Probabilities</li>
@@ -114,7 +114,7 @@ Deep Learning
   <li>Smoothing</li>
 </ul>
  <br>
- 2.4 Hidden Markov Models <a href="http://lin99.github.io/NLPTM-2016/2.Docs/hmm_example.pptx">Example</a>
+ 2.4 Hidden Markov Models <a target="_blank" href="http://lin99.github.io/NLPTM-2016/2.Docs/hmm_example.pptx">Example</a>
 </td>
 <td>
 New notebook <a href="http://lin99.github.io/NLPTM-2016/2.Docs/Notebook.docx">tutorial</a>
