@@ -260,11 +260,12 @@ Assignment 3
 4.2 Word Embeddings <a target = "_blank" href="https://github.com/lin99/NLPTM-2016/blob/gh-pages/4.Docs/word2vec.ipynb"> Notebook </a>
 </td>
 <td>
-<a target = "_blank" href="https://github.com/lin99/NLPTM-2016/blob/gh-pages/4.Docs/assign1.ipynb"> Assignment 4.1 </a>
-</td>
-<td>
 
 </td>
+<td>
+<a target = "_blank" href="https://github.com/lin99/NLPTM-2016/blob/gh-pages/4.Docs/assign1.ipynb"> Assignment 4.1 </a>
+</td>
+
 </tr>
 
 <tr>
