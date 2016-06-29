@@ -240,8 +240,8 @@ Language Models with KenLM Mac OS X <a href="http://lin99.github.io/NLPTM-2016/2
 <td>
 
 </td>
-<td>
-Assignment 3
+<td> 
+<a target = "_blank" href="http://lin99.github.io/NLPTM-2016/3.Docs/Assignment3.pdf"> Assignment 3 </a>
 <br>
 <a target = "_blank" href="http://lin99.github.io/NLPTM-2016/3.Docs/poemas.zip"> Poems</a>
 </td>
