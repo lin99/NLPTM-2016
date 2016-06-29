@@ -264,6 +264,7 @@ Assignment 3
 </td>
 <td>
 <a target = "_blank" href="https://github.com/lin99/NLPTM-2016/blob/gh-pages/4.Docs/assign1.ipynb"> Assignment 4.1 </a>
+<a target = "_blank" href="http://lin99.github.io/NLPTM-2016/4.Docs/assign1.ipynb">  (download) </a>
 </td>
 
 </tr>
