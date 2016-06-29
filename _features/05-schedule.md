@@ -250,10 +250,17 @@ Assignment 3
 <tr>
 <td>Jun 29</td>
 <td>
-4. Advanced machine learning models for NLP 
+4. Advanced machine learning models for NLP <a target = "_blank" href="http://lin99.github.io/NLPTM-2016/4.Docs/nlp_tm_module4.pdf"> Slides </a>
+<br>
+4.1 Introduction
+<ul>
+  <li>Introduction to Machine Learning</li>
+  <li>Introduction to Neural Networks <a target = "_blank" href="https://github.com/lin99/NLPTM-2016/blob/gh-pages/4.Docs/quickIntro2NN.ipynb"> Notebook </a></li>
+</ul>
+4.2 Word Embeddings <a target = "_blank" href="https://github.com/lin99/NLPTM-2016/blob/gh-pages/4.Docs/word2vec.ipynb"> Notebook </a>
 </td>
 <td>
-
+<a target = "_blank" href="https://github.com/lin99/NLPTM-2016/blob/gh-pages/4.Docs/assign1.ipynb"> Assignment 4.1 </a>
 </td>
 <td>
 
