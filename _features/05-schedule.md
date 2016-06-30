@@ -283,9 +283,13 @@ Language Models with KenLM Mac OS X <a href="http://lin99.github.io/NLPTM-2016/2
 <a target = "_blank" href="http://lin99.github.io/NLPTM-2016/4.Docs/assign2.ipynb">  (download) </a>
 
 <br>
-<a target = "_blank" href="http://lin99.github.io/NLPTM-2016/4.Docs/grnn_best.tar">  Bible model  </a>
+<a target = "_blank" href="http://lin99.github.io/NLPTM-2016/4.Docs/grnn_best.tar">  Bible model  </a> -
+
+<a target = "_blank" href="http://lin99.github.io/NLPTM-2016/4.Docs/biblia.txt">  biblia.txt  </a>
 <br> 
-<a target = "_blank" href="http://lin99.github.io/NLPTM-2016/4.Docs/reg1_best.tar">  Alternative model  </a>
+<a target = "_blank" href="http://lin99.github.io/NLPTM-2016/4.Docs/reg1_best.tar">  Alternative model  </a> - 
+<a target = "_blank" href="http://lin99.github.io/NLPTM-2016/4.Docs/reg1.txt">  reg1.txt  </a>
+
 </td>
 
 </tr>
