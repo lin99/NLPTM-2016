@@ -272,14 +272,15 @@ Language Models with KenLM Mac OS X <a href="http://lin99.github.io/NLPTM-2016/2
 <tr>
 <td>Jun 30</td>
 <td>
-
+4.2 Recurrent Neural Networks <a target = "_blank" href="https://github.com/lin99/NLPTM-2016/blob/gh-pages/4.Docs/RNN.ipynb"> Notebook </a>
 </td>
 <td>
 
 </td>
 <td>
-
+<a target = "_blank" href="https://github.com/lin99/NLPTM-2016/blob/gh-pages/4.Docs/assign2.ipynb"> Assignment 4.2 </a>
 </td>
+
 </tr>
 
 <tr>
