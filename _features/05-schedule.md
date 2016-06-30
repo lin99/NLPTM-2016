@@ -278,7 +278,13 @@ Language Models with KenLM Mac OS X <a href="http://lin99.github.io/NLPTM-2016/2
 
 </td>
 <td>
+
 <a target = "_blank" href="https://github.com/lin99/NLPTM-2016/blob/gh-pages/4.Docs/assign2.ipynb"> Assignment 4.2 </a>
+<a target = "_blank" href="http://lin99.github.io/NLPTM-2016/4.Docs/assign2.ipynb">  (download) </a>
+
+<br>
+<a target = "_blank" href="http://lin99.github.io/NLPTM-2016/4.Docs/grnn_best.tar">  Modelo </a>
+
 </td>
 
 </tr>
