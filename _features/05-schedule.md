@@ -275,7 +275,7 @@ Language Models with KenLM Mac OS X <a href="http://lin99.github.io/NLPTM-2016/2
 4.2 Recurrent Neural Networks <a target = "_blank" href="https://github.com/lin99/NLPTM-2016/blob/gh-pages/4.Docs/RNN.ipynb"> Notebook </a>
 </td>
 <td>
-Neural Networks <a target="_blank"href= "https://youtu.be/CTP0ybTolDY"> video </a>
+Neural Networks <a target="_blank" href= "https://youtu.be/CTP0ybTolDY"> video </a>
 <br>
 Softmax <a target = "_blank" href="https://youtu.be/U8adee1Ksdg"> video </a>
 </td>
