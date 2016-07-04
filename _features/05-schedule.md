@@ -261,6 +261,7 @@ Language Models with KenLM Mac OS X <a href="http://lin99.github.io/NLPTM-2016/2
 </td>
 <td>
 
+Introduction <a target="_blank" href= "https://youtu.be/CTP0ybTolDY"> video </a>
 </td>
 <td>
 <a target = "_blank" href="https://github.com/lin99/NLPTM-2016/blob/gh-pages/4.Docs/assign1.ipynb"> Assignment 4.1 </a>
