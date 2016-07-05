@@ -300,7 +300,12 @@ Softmax <a target = "_blank" href="https://youtu.be/U8adee1Ksdg"> video </a>
 <tr>
 <td>Jul 1</td>
 <td>
-
+4.3 Applications
+<ul>
+  <li>Image Captioning <a target = "_blank" href="http://lin99.github.io/NLPTM-2016/4.Docs/Image captioning.pdf">  Slides </a></li>
+  <li>CNN for text <a target = "_blank" href="http://lin99.github.io/NLPTM-2016/4.Docs/cnn for text.pdf">   Slides  </a></li>
+  <li>Word2Vec in SO  <a target = "_blank" href="http://lin99.github.io/NLPTM-2016/4.Docs/Word2vec for StackOverflow.pdf">   Slides  </a></li>
+</ul>
 </td>
 <td>
 
